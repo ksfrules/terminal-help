@@ -1,3 +1,9 @@
+"""
+let's help each other
+the best game of 2024 - TERMINAL
+https://t.me/terminal_CIS
+"""
+
 number_of_words = int(input("input number of words: "))
 words = []
 for i in range(number_of_words):
